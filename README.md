@@ -1,5 +1,5 @@
 # 👋 About Me  
-I'm **Abhishek Jain**, a passionate full-stack developer and founder of **Ahiru.in**. I specialize in **web and mobile development, cloud computing, and API development**. With a strong foundation in backend technologies, database management, and problem-solving, I love building scalable and efficient solutions.  
+I'm **Abhishek Jain**, a passionate full-stack developer and founder of **Automate Vellore**. I specialize in **web and mobile development, cloud computing, and API development**. With a strong foundation in backend technologies, database management, and problem-solving, I love building scalable and efficient solutions.  
 
 
 # Tech Stack:
